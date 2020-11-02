@@ -1,4 +1,4 @@
-# Linked list /// std::list
+# Linked list
 
 ---
 
